@@ -1,0 +1,13 @@
+Today is Day1 basics of python programming
+
+variable and print with the f string
+
+then with the datatypes with int , float , string , boolean to find its types 
+
+string operations create a string and make them upper and lower , concatenate the the two strings
+slicing the string
+
+then with input operations with input()
+
+challenges faced i forgot the upper case and lower case converstion and printed all the data types in the same print(), 
+then changed it 
