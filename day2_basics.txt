@@ -1,0 +1,14 @@
+Day 2 - Input/Output & Type Conversion
+--------------------------------------
+Concepts learned:
+- input() always returns string
+- int(), float(), str(), bool() conversions
+- Error occurs if conversion is invalid (e.g., int("Hello"))
+
+Challenges faced:
+- Accidentally tried to convert text to int
+- Remembering when to use str() vs int()
+
+Next steps:
+- Practice condition-based programs tomorrow (Day 3)
+- Even/odd check, leap year check
