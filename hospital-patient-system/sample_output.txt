@@ -1,0 +1,89 @@
+#TEST CASE - 1
+
+Enter patient name: Arun
+Enter patient age: 65
+Enter consultation fee: 1000
+Do you have health insurance? (yes/no): yes
+Is this an emergency? (yes/no): yes
+
+=============================================
+          HOSPITAL PATIENT REPORT
+=============================================
+
+Patient Information
+---------------------------------------------
+Patient Name : Arun
+Age          : 65
+Category     : Senior
+
+Visit Information
+---------------------------------------------
+Case         : Emergency
+
+Billing Information
+---------------------------------------------
+Original Fee       : ₹1000.00
+Insurance Discount : ₹200.00
+Emergency Charge   : ₹500.00
+Final Bill         : ₹1300.00
+=============================================
+
+#TEST CASE - 2
+
+Enter patient name: Ravi
+Enter patient age: 12
+Enter consultation fee: 800
+Do you have health insurance? (yes/no): no
+Is this an emergency? (yes/no): no
+
+=============================================
+          HOSPITAL PATIENT REPORT
+=============================================
+
+Patient Information
+---------------------------------------------
+Patient Name : Ravi
+Age          : 12
+Category     : Child/Teen
+
+Visit Information
+---------------------------------------------
+Case         : Regular Consultation
+
+Billing Information
+---------------------------------------------
+Original Fee       : ₹800.00
+Insurance Discount : ₹0.00
+Emergency Charge   : ₹0.00
+Final Bill         : ₹800.00
+=============================================
+
+#TEST CASE - 3 
+
+Enter patient name: Anu
+Enter patient age: 3
+Enter consultation fee: 500
+Do you have health insurance? (yes/no): yes
+Is this an emergency? (yes/no): no
+
+=============================================
+          HOSPITAL PATIENT REPORT
+=============================================
+
+Patient Information
+---------------------------------------------
+Patient Name : Anu
+Age          : 3
+Category     : Child under 5
+
+Visit Information
+---------------------------------------------
+Case         : Regular Consultation
+
+Billing Information
+---------------------------------------------
+Original Fee       : ₹0.00
+Insurance Discount : ₹0.00
+Emergency Charge   : ₹0.00
+Final Bill         : ₹0.00
+=============================================
