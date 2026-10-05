@@ -1,0 +1,62 @@
+
+#OUTPUT 
+
+
+=============================================
+       EMPLOYEE ANALYSIS REPORT
+=============================================
+Employee:            Arun
+Salary:             ₹25000
+Attendance:          24 days
+Salary Category:     Low Salary
+Attendance Category: Good Attendance
+----------------------------------------
+Employee:            Priya
+Salary:             ₹32000
+Attendance:          26 days
+Salary Category:     Meduim Salary
+Attendance Category: Excellent Attendance
+----------------------------------------
+Employee:            Karthik
+Salary:             ₹45000
+Attendance:          22 days
+Salary Category:     High Salary
+Attendance Category: Poor Attendance
+----------------------------------------
+Employee:            Divya
+Salary:             ₹28000
+Attendance:          27 days
+Salary Category:     Low Salary
+Attendance Category: Excellent Attendance
+----------------------------------------
+Employee:            Rahul
+Salary:             ₹50000
+Attendance:          25 days
+Salary Category:     High Salary
+Attendance Category: Excellent Attendance
+----------------------------------------
+
+==============================================
+               SALARY SUMMARY
+================================================
+Total Salary:           ₹180000
+Number of Employees:     5
+Average Salary:         ₹36000.0
+
+Highest Salary:         ₹50000
+Highest Paid Employee:   Rahul
+
+Lowest Salary:          ₹25000
+Lowest Paid Employee:    Arun
+
+High Salary Employees:   2
+Medium Salary Employees: 1
+Low Salary Employees:    2
+
+==============================================
+            ATTENDANCE SUMMARY
+================================================
+Total Attendance :    124
+Average Attendance:   24.8
+Highest Attendance:   27
+Lowest Attendance:    22
