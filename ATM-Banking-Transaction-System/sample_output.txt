@@ -1,0 +1,77 @@
+ATM Banking & Transaction System - Sample Output
+
+--- Failed Login ---
+
+Enter your PIN: 1122345
+Enter your PIN: 4321
+Enter your PIN: 1245
+Account Locked
+
+--- Successful Login ---
+
+Enter your PIN: 12345
+Enter your PIN: 1234532
+Enter your PIN: 11223344
+Login Successful
+
+======= ATM =======
+
+1. Check Balance
+2. Deposit Money
+3. Withdraw Money
+4. Transaction History Summary
+5. Exit
+
+Enter your choice: 1
+Balance : ₹45000
+
+======= ATM =======
+
+1. Check Balance
+2. Deposit Money
+3. Withdraw Money
+4. Transaction History Summary
+5. Exit
+
+Enter your choice: 2
+Enter the Deposit amount: ₹25000
+
+======= ATM =======
+
+1. Check Balance
+2. Deposit Money
+3. Withdraw Money
+4. Transaction History Summary
+5. Exit
+
+Enter your choice: 3
+Enter the Withdrawal amount: ₹15000
+Successful withdrawal
+
+======= ATM =======
+
+1. Check Balance
+2. Deposit Money
+3. Withdraw Money
+4. Transaction History Summary
+5. Exit
+
+Enter your choice: 4
+====== TRANSACTION SUMMARY ======
+
+Total Deposited: ₹25000
+Deposit Count: 1
+Total Withdrawn: ₹15000
+Withdrawal Count: 1
+Current Balance: ₹55000
+
+======= ATM =======
+
+1. Check Balance
+2. Deposit Money
+3. Withdraw Money
+4. Transaction History Summary
+5. Exit
+
+Enter your choice: 5
+Thank you for using ABC Bank ATM
