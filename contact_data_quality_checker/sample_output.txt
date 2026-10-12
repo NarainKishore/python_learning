@@ -1,0 +1,40 @@
+CONTACT DATA QUALITY CHECKER
+==============================
+
+TEST 1: Valid Contact Details
+
+Name: Aravind M
+Email: aravind@example.com
+Phone: 8923843458
+
+Email after cleanup: aravind@example.com
+Name valid: True
+Email valid: True
+Phone valid: True
+ACCEPTED
+
+
+TEST 2: Invalid Email Address
+
+Name: Akash
+Email: akash.example.com
+Phone: 8893452341
+
+Email after cleanup: akash.example.com
+Name valid: True
+Email valid: False
+Phone valid: True
+NEEDS REVIEW
+
+
+TEST 3: Invalid Phone Number
+
+Name: Premkumar
+Email: premkumar@example.com
+Phone: 12345
+
+Email after cleanup: premkumar@example.com
+Name valid: True
+Email valid: True
+Phone valid: False
+NEEDS REVIEW
